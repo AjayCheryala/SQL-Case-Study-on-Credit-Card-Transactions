@@ -4,7 +4,7 @@ The SQL case study on credit card transactions focuses on analyzing and extracti
 
 The case study covers several key aspects of credit card transaction analysis, throughout the case study, SQL queries will be designed and executed to address specific analytical objectives. 
 
-###These queries will leverage various SQL functions, such as
+### These queries will leverage various SQL functions, such as
 • Aggregate functions - SUM, COUNT, MIN, MAX
 
 • Cast
