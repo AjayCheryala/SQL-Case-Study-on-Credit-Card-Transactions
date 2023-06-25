@@ -28,7 +28,7 @@ The case study covers several key aspects of credit card transaction analysis, t
 • Common Table Expression (CTE)
 
 
-SQL Challenge Questions
+## SQL Challenge Questions
 
 1. write a query to print top 5 cities with highest spends and their percentage contribution of total credit card spends
 
